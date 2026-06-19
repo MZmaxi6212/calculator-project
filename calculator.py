@@ -20,3 +20,6 @@ def dividiere(a, b):
 if __name__ == "__main__":
     print("Einfacher Calculator")
     print(addiere(5, 3))
+
+# Das wird Bandit als Sicherheitsrisiko melden (Absicht für die Übung!)
+exec("print('Hello World')")

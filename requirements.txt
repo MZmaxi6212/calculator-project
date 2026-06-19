@@ -1,3 +1,4 @@
 flake8
 bandit
 pip-audit
+requests==2.20.0
